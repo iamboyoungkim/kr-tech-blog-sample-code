@@ -73,7 +73,7 @@ Three outputs can be enabled independently based on configuration:
 ├── config/                         # Kubernetes manifests (Kustomize)
 ├── test/                           # E2E tests
 ├── examples/                       # Deployment examples (YAML, Terraform)
-├── runbooks/                       # Operational runbooks
+├── skills/                         # Operational skills
 ├── Dockerfile
 └── Makefile
 ```

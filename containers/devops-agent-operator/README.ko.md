@@ -73,7 +73,7 @@ ContainerCreating, Unschedulable 같은 일시적 상태는 설정된 대기 시
 ├── config/                         # Kubernetes 매니페스트 (Kustomize)
 ├── test/                           # E2E 테스트
 ├── examples/                       # 배포 예제 (YAML, Terraform)
-├── runbooks/                       # 운영 런북
+├── skills/                         # 운영 스킬
 ├── Dockerfile
 └── Makefile
 ```
